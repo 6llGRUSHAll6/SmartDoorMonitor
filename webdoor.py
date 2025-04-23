@@ -59,8 +59,6 @@ while True:
     if door_open != previous_door_open and previous_door_open is not None:
         if door_open:
             pyautogui.hotkey('winleft', 'd')
-        else:
-            pyautogui.hotkey('winleft', 'shift', 'm')
     
     previous_door_open = door_open
 
