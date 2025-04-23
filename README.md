@@ -19,6 +19,6 @@
    pip install opencv-python
    pip install numpy
    pip install pyautogui
-#####press "C"
-#####point the webcam at the door (NORMAL LIGHTING IS REQUIRED)
+##### press "C"
+##### point the webcam at the door (NORMAL LIGHTING IS REQUIRED)
 
