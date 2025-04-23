@@ -20,5 +20,3 @@
    pip install pyautogui
 ##### press "C"
 ##### point the webcam at the door (NORMAL LIGHTING IS REQUIRED)
-
-# возможно в будующем буду развивать проект
