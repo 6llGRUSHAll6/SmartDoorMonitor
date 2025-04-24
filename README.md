@@ -18,5 +18,6 @@
    pip install opencv-python
    pip install numpy
    pip install pyautogui
+   python webdoor.py
 ##### press "C"
 ##### point the webcam at the door (NORMAL LIGHTING IS REQUIRED)
